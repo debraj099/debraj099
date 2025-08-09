@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://64.media.tumblr.com/8f8efc69f9e5ab676af2a48b14fbf24b/bcb8ff6c74e5d733-5b/s540x810/441bb4a3db5449e5b3e4ed678e5c3d595e5a6846.gif" alt="Chill Kong" width="400"/>
-</p>
+<img src="coding.gif" width="100%" alt="Coding Animation"/>
 
 
 <h1 align="center">Hi 👋, I'm Debraj roy</h1>
